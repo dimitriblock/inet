@@ -1393,7 +1393,7 @@ using the hop count and error rate metrics in a mixed wired/wireless network.
 
 @section s12model The model
 
-The step uses the ConfiguratorE network, defined in ConfiguratorE.ned. The network looks like this:
+The step uses the ConfiguratorE network, defined in ConfiguratorF.ned. The network looks like this:
 
 <img src="step12network.png">
 
